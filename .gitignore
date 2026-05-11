@@ -1,0 +1,22 @@
+# OS and IDE
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# Dependencies
+node_modules/
+*.egg-info/
+__pycache__/
+
+# Environment
+.env
+.venv/
+
+# Build outputs
+dist/
+build/
+*.pyc
